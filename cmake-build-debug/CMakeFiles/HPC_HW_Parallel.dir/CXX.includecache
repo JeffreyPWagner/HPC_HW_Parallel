@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jeffp/CLionProjects/HPC_HW_Parallel/main.cpp
+iostream
+-
+cstdlib
+-
+omp.h
+C:/Users/jeffp/CLionProjects/HPC_HW_Parallel/omp.h
+

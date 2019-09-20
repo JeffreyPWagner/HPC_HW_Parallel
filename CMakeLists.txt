@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.14)
+project(HPC_HW_Parallel)
+find_package(OpenMP)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(HPC_HW_Parallel main.cpp)
+if(OpenMP_CXX_FOUND)
+    target_link_libraries(HPC_HW_Parallel PUBLIC OpenMP::OpenMP_CXX)
+endif()
