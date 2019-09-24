@@ -1,3 +1,3 @@
-C:/Users/jeffp/CLionProjects/HPC_HW_Parallel/cmake-build-debug/CMakeFiles/HPC_HW_Parallel.dir
-C:/Users/jeffp/CLionProjects/HPC_HW_Parallel/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jeffp/CLionProjects/HPC_HW_Parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/jeffp/CLionProjects/HPC_HW_Parallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/jeffp/CLionProjects/HPC_HW_Parallel/cmake-build-debug/CMakeFiles/HPC_HW_Parallel.dir
+/cygdrive/c/Users/jeffp/CLionProjects/HPC_HW_Parallel/cmake-build-debug/CMakeFiles/edit_cache.dir

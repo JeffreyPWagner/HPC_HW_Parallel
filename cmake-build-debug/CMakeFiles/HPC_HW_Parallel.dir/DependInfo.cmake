@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/jeffp/CLionProjects/HPC_HW_Parallel/main.cpp" "C:/Users/jeffp/CLionProjects/HPC_HW_Parallel/cmake-build-debug/CMakeFiles/HPC_HW_Parallel.dir/main.cpp.obj"
+  "/cygdrive/c/Users/jeffp/CLionProjects/HPC_HW_Parallel/main.cpp" "/cygdrive/c/Users/jeffp/CLionProjects/HPC_HW_Parallel/cmake-build-debug/CMakeFiles/HPC_HW_Parallel.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

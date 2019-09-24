@@ -1,9 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/HPC_HW_Parallel.dir/main.cpp.obj"
+  "CMakeFiles/HPC_HW_Parallel.dir/main.cpp.o"
   "HPC_HW_Parallel.pdb"
   "HPC_HW_Parallel.exe"
-  "HPC_HW_Parallel.exe.manifest"
-  "HPC_HW_Parallel.lib"
+  "libHPC_HW_Parallel.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
